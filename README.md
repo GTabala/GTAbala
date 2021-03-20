@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![Gennady's github stats](https://github-readme-stats.vercel.app/api?username=GTabala&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GTabala&langs_count=8)](https://github.com/Hiba-moh/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GTabala&langs_count=8)](https://github.com/GTabala/github-readme-stats)
 
 
 <!--
