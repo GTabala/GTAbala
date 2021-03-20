@@ -1,5 +1,6 @@
 ### Hi there 👋
 🔭 I’m currently working on CYF Final project .
+![Gennady's github stats](https://github-readme-stats.vercel.app/api?username=GTabala&show_icons=true&theme=radical)
 
 <!--
 **GTabala/GTAbala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
